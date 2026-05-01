@@ -76,6 +76,6 @@ The application generates:
 ## License
 This project is released under the MIT License.
 
-## Disclaimer
+### Disclaimer
 
 This software is provided for research and educational purposes only. The automatic output is not a medical diagnosis. Final interpretation must be performed by a qualified medical specialist.
