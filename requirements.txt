@@ -1,1 +1,9 @@
-
+torch
+torchvision
+numpy
+pandas
+opencv-python-headless
+Pillow
+matplotlib
+segmentation-models-pytorch
+gradio
