@@ -56,10 +56,6 @@ Download VTSC_unified_bundle.pt from the Releases page and place it here:
 ```text
 weights/VTSC_unified_bundle.pt
 ```
-If the model file is hosted externally, download it from:
-```text
-PASTE_MODEL_DOWNLOAD_LINK_HERE
-```
 
 ## Run Gradio app
 ```bash
